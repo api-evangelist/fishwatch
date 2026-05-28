@@ -1,0 +1,32 @@
+aid: fishwatch
+name: FishWatch
+description: "Information and pictures about individual fish species"
+url: https://www.fishwatch.gov/developers
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Animals"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Animals
+  - Public APIs
+apis:
+  - name: FishWatch
+    description: "Information and pictures about individual fish species"
+    humanURL: https://www.fishwatch.gov/developers
+    baseURL: https://www.fishwatch.gov/developers
+    tags:
+      - Animals
+    properties:
+      - type: Documentation
+        url: https://www.fishwatch.gov/developers
+common:
+  - type: Website
+    url: https://www.fishwatch.gov/developers
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
