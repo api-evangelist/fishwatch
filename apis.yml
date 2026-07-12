@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.fishwatch.gov/developers
 common:
+  - type: DomainSecurity
+    url: security/fishwatch-domain-security.yml
   - type: Website
     url: https://www.fishwatch.gov/developers
   - type: PublicAPIsListing
