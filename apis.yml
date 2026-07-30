@@ -1,4 +1,16 @@
 aid: fishwatch
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/fishwatch.png
 name: FishWatch
 description: "Information and pictures about individual fish species"
 url: https://www.fishwatch.gov/developers
